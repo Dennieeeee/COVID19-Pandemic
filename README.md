@@ -1,7 +1,7 @@
 # COVID19-Pandemic
 ## Summary
 This project will be focusing on the COVID-19 impacts in the US economy regarding the unemployeement rate and poverty. 
-I'll further looked into the counties in which job losses are more vulnerable to COVID-19.
+I'll further look into the counties in which job losses are more vulnerable to COVID-19.
 
 ## Introduction
 We all know that COVID-19 has severly impacted the World's economic this year. Many people lost their jobs and companies freezed their hiring. This makes new grad even
