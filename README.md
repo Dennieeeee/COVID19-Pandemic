@@ -12,7 +12,7 @@ to understand how COVID-19 has negatively impacted the US economy in regards to 
 
 Some questions:
 
-- Which counties have have the highest Labour Force?
+- Which counties have the highest Labour Force?
 - Which counties have the highest unemployment rate?
 - Which county has a higher COVID-19 Vulnerability Index (CVI)?
 - What is the correlation between the CVI and the Unemployment rate?
